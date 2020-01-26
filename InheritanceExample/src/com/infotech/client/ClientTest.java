@@ -9,6 +9,6 @@ public class ClientTest {
 		// calling the method of class B using class B object
 		b.displayFromB();
 		// calling the method of class A using class B object
-		b.displayFromA();
+		   b.displayFromA();
 	}
 }
